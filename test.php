@@ -1,0 +1,4 @@
+<?php
+//swt
+//ga jelas
+?>
